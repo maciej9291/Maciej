@@ -1,1 +1,2 @@
 Szulc
+cokolwiek
